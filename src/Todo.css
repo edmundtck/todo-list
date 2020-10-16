@@ -1,0 +1,12 @@
+.Todo {
+    display: flex;
+}
+
+.Todo-task {
+    flex: 0 1 20%;
+}
+
+.completed {
+    color: lightgray;
+    text-decoration: line-through;
+}
